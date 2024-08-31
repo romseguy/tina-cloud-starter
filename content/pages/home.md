@@ -37,7 +37,7 @@ blocks:
     image:
       src: /uploads/public/uploads/llama-2.avif
       alt: right img
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
